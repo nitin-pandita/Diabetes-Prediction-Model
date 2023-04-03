@@ -6,4 +6,4 @@ Diabetes Prediction Model for predicting whether the person is suffering from Di
 - Pandas
 - Sklearn
 
-## Support Vector Machine Classifier is used as a model for prediction the output
+## Support Vector Machine Classifier is used as a model for predicting the output
